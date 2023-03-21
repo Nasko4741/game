@@ -97,7 +97,6 @@ function ball() {
     
     }
   }
-  setInterval(hitbrick, 50);
 
 document.addEventListener('mousemove', function(g){
     let x = g.clientX;
